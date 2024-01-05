@@ -12,7 +12,7 @@ h1{
     font-family: 'Libre Baskerville', serif;
 }
 h3{
-    color: yellow;
+    color: yellow !important;
     font-size: 25px;
     font-family: sans-serif;
 }
